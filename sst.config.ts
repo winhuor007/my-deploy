@@ -5,7 +5,7 @@ export default {
   config(_input) {
     return {
       name: "next101",
-      region: "",
+      region: "ap-southeast-1",
     };
   },
   stacks(app) {
